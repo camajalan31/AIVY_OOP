@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\Camajalan_MyClassAndObjects\Camajalan_MyClassAndObjects\bin\Debug\Camajalan_MyClassAndObjects.exe.config
+C:\Users\ACT-STUDENT\Desktop\Camajalan_MyClassAndObjects\Camajalan_MyClassAndObjects\bin\Debug\Camajalan_MyClassAndObjects.exe
+C:\Users\ACT-STUDENT\Desktop\Camajalan_MyClassAndObjects\Camajalan_MyClassAndObjects\bin\Debug\Camajalan_MyClassAndObjects.pdb
+C:\Users\ACT-STUDENT\Desktop\Camajalan_MyClassAndObjects\Camajalan_MyClassAndObjects\obj\Debug\Camajalan_MyClassAndObjects.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Camajalan_MyClassAndObjects\Camajalan_MyClassAndObjects\obj\Debug\Camajalan_MyClassAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Camajalan_MyClassAndObjects\Camajalan_MyClassAndObjects\obj\Debug\Camajalan_MyClassAndObjects.exe
+C:\Users\ACT-STUDENT\Desktop\Camajalan_MyClassAndObjects\Camajalan_MyClassAndObjects\obj\Debug\Camajalan_MyClassAndObjects.pdb
