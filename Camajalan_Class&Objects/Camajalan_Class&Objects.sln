@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camajalan_Class&Objects", "Camajalan_Class&Objects\Camajalan_Class&Objects.csproj", "{AAF67069-DD49-45A1-B37F-DE9328277524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAF67069-DD49-45A1-B37F-DE9328277524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF67069-DD49-45A1-B37F-DE9328277524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF67069-DD49-45A1-B37F-DE9328277524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF67069-DD49-45A1-B37F-DE9328277524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7474916E-50ED-475B-881D-CD4376FBFB91}
+	EndGlobalSection
+EndGlobal
