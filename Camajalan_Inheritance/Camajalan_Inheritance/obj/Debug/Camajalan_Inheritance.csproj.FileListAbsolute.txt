@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\Camajalan _Inheritance\Camajalan_Inheritance\Camajalan_Inheritance\bin\Debug\Camajalan_Inheritance.exe.config
+C:\Users\ACT-STUDENT\Desktop\Camajalan _Inheritance\Camajalan_Inheritance\Camajalan_Inheritance\bin\Debug\Camajalan_Inheritance.exe
+C:\Users\ACT-STUDENT\Desktop\Camajalan _Inheritance\Camajalan_Inheritance\Camajalan_Inheritance\bin\Debug\Camajalan_Inheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\Camajalan _Inheritance\Camajalan_Inheritance\Camajalan_Inheritance\obj\Debug\Camajalan_Inheritance.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Camajalan _Inheritance\Camajalan_Inheritance\Camajalan_Inheritance\obj\Debug\Camajalan_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Camajalan _Inheritance\Camajalan_Inheritance\Camajalan_Inheritance\obj\Debug\Camajalan_Inheritance.exe
+C:\Users\ACT-STUDENT\Desktop\Camajalan _Inheritance\Camajalan_Inheritance\Camajalan_Inheritance\obj\Debug\Camajalan_Inheritance.pdb
