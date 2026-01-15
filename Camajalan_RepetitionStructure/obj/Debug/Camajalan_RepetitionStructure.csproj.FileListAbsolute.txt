@@ -1,0 +1,14 @@
+C:\Users\ACT-STUDENT\Desktop\Camajalan_RepetitionStructure\bin\Debug\Camajalan_RepetitionStructure.exe.config
+C:\Users\ACT-STUDENT\Desktop\Camajalan_RepetitionStructure\bin\Debug\Camajalan_RepetitionStructure.exe
+C:\Users\ACT-STUDENT\Desktop\Camajalan_RepetitionStructure\bin\Debug\Camajalan_RepetitionStructure.pdb
+C:\Users\ACT-STUDENT\Desktop\Camajalan_RepetitionStructure\obj\Debug\Camajalan_RepetitionStructure.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Camajalan_RepetitionStructure\obj\Debug\Camajalan_RepetitionStructure.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Camajalan_RepetitionStructure\obj\Debug\Camajalan_RepetitionStructure.exe
+C:\Users\ACT-STUDENT\Desktop\Camajalan_RepetitionStructure\obj\Debug\Camajalan_RepetitionStructure.pdb
+C:\Users\ACT-STUDENT\Downloads\Camajalan_RepetitionStructure\bin\Debug\Camajalan_RepetitionStructure.exe.config
+C:\Users\ACT-STUDENT\Downloads\Camajalan_RepetitionStructure\bin\Debug\Camajalan_RepetitionStructure.exe
+C:\Users\ACT-STUDENT\Downloads\Camajalan_RepetitionStructure\bin\Debug\Camajalan_RepetitionStructure.pdb
+C:\Users\ACT-STUDENT\Downloads\Camajalan_RepetitionStructure\obj\Debug\Camajalan_RepetitionStructure.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\Camajalan_RepetitionStructure\obj\Debug\Camajalan_RepetitionStructure.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\Camajalan_RepetitionStructure\obj\Debug\Camajalan_RepetitionStructure.exe
+C:\Users\ACT-STUDENT\Downloads\Camajalan_RepetitionStructure\obj\Debug\Camajalan_RepetitionStructure.pdb
