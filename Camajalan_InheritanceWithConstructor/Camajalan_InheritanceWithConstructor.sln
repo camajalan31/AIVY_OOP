@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camajalan_InheritanceWithConstructor", "Camajalan_InheritanceWithConstructor\Camajalan_InheritanceWithConstructor.csproj", "{BAA89E06-F3A5-44F6-B06D-7D14ABA35565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA89E06-F3A5-44F6-B06D-7D14ABA35565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA89E06-F3A5-44F6-B06D-7D14ABA35565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA89E06-F3A5-44F6-B06D-7D14ABA35565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA89E06-F3A5-44F6-B06D-7D14ABA35565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C4B7D3-B977-41FF-A3F7-EDC37B7EE9D1}
+	EndGlobalSection
+EndGlobal
