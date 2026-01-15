@@ -1,0 +1,15 @@
+C:\Users\ACT-STUDENT\Desktop\Camajalan_SimpleInheritance\Camajalan_SimpleInheritance\bin\Debug\Camajalan_SimpleInheritance.exe.config
+C:\Users\ACT-STUDENT\Desktop\Camajalan_SimpleInheritance\Camajalan_SimpleInheritance\bin\Debug\Camajalan_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Desktop\Camajalan_SimpleInheritance\Camajalan_SimpleInheritance\bin\Debug\Camajalan_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\Camajalan_SimpleInheritance\Camajalan_SimpleInheritance\obj\Debug\Camajalan_SimpleInheritance.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Camajalan_SimpleInheritance\Camajalan_SimpleInheritance\obj\Debug\Camajalan_SimpleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Camajalan_SimpleInheritance\Camajalan_SimpleInheritance\obj\Debug\Camajalan_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Desktop\Camajalan_SimpleInheritance\Camajalan_SimpleInheritance\obj\Debug\Camajalan_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\Camajalan_SimpleInheritance\Camajalan_SimpleInheritance\obj\Debug\Camajalan_SimpleInheritance.exe.config
+C:\Users\ACT-STUDENT\Downloads\Camajalan_SimpleInheritance\Camajalan_SimpleInheritance\bin\Debug\Camajalan_SimpleInheritance.exe.config
+C:\Users\ACT-STUDENT\Downloads\Camajalan_SimpleInheritance\Camajalan_SimpleInheritance\bin\Debug\Camajalan_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Downloads\Camajalan_SimpleInheritance\Camajalan_SimpleInheritance\bin\Debug\Camajalan_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Downloads\Camajalan_SimpleInheritance\Camajalan_SimpleInheritance\obj\Debug\Camajalan_SimpleInheritance.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\Camajalan_SimpleInheritance\Camajalan_SimpleInheritance\obj\Debug\Camajalan_SimpleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\Camajalan_SimpleInheritance\Camajalan_SimpleInheritance\obj\Debug\Camajalan_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Downloads\Camajalan_SimpleInheritance\Camajalan_SimpleInheritance\obj\Debug\Camajalan_SimpleInheritance.pdb
