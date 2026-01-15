@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Camajalan\Camajalan\obj\Debug\Camajalan.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Camajalan\Camajalan\obj\Debug\Camajalan.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Camajalan\Camajalan\bin\Debug\Camajalan.exe.config
+C:\Users\ACT-STUDENT\Desktop\Camajalan\Camajalan\bin\Debug\Camajalan.exe
+C:\Users\ACT-STUDENT\Desktop\Camajalan\Camajalan\bin\Debug\Camajalan.pdb
+C:\Users\ACT-STUDENT\Desktop\Camajalan\Camajalan\obj\Debug\Camajalan.exe
+C:\Users\ACT-STUDENT\Desktop\Camajalan\Camajalan\obj\Debug\Camajalan.pdb
+C:\Users\ACT-STUDENT\Desktop\Camajalan\Camajalan\obj\Debug\Camajalan.exe.config
